@@ -27,9 +27,22 @@ ______________________________________________________
 ## app.js
 - main application file
 
-### libraries installed
+## route.js
+- main application routing
+
+## views dir
+- ejs files (html with embedded javascript)
+
+## css dir
+- bootstrap code
+
+## routes dir
+- javascript routing for each individual view page
+
+## libraries installed
 - express `npm install express --save`
 - path `npm install path --save`
+- ejs `npm install ejs --save`
 
 ______________________________________________________
 
