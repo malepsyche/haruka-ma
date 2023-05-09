@@ -30,7 +30,7 @@ ______________________________________________________
 # Introduction
 
 ## Helpful tutorials
-- (https://www.youtube.com/watch?v=EMwu8F0dCXE&t=1452s)
+- [creating a node app](https://www.youtube.com/watch?v=EMwu8F0dCXE&t=1452s)
 
 ## app.js
 - main application file
