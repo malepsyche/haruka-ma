@@ -1,5 +1,4 @@
 # haruka-ma's Tech Stack
-<br/>
 
 ## Languages and frameworks
 
