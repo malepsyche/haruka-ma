@@ -15,9 +15,13 @@ database
 
 ## Packages installed
 
-- nvm (node version manager)
+### nvm (node version manager)
 - `https://github.com/nvm-sh/nvm`
 - `https://www.youtube.com/watch?v=ohBFbA0O6hs`
+
+### nodemon
+- `https://www.npmjs.com/package/nodemon`
+- `npm install -g nodemon`
 ______________________________________________________
 
 # Introduction
