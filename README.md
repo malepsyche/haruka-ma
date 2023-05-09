@@ -1,6 +1,5 @@
 # haruka-ma's Tech Stack
 <br/>
-<br/>
 
 ## Languages and frameworks
 
@@ -28,26 +27,37 @@ database
 - `npm install -g nodemon` to install
 - `nodemon {insert file name in current directory}` eg. `nodemon app` to use tool
 ______________________________________________________
+<br/>
 
 # Introduction
 
 ## Helpful tutorials
 - [creating a node app](https://www.youtube.com/watch?v=EMwu8F0dCXE&t=1452s)
 
+______________________________________________________
+<br/>
+
+# Directories and files
+
 ## app.js
 - main application file
+- `./app.js`
 
 ## route.js
 - main application routing
+- `./route.js`
 
 ## views dir
 - ejs files (html with embedded javascript)
+- `./views`
 
 ## css dir
 - bootstrap code
+- `./css`
 
 ## routes dir
 - javascript routing for each individual view page
+- `./routes`
 
 ## libraries installed
 - express `npm install express --save`
