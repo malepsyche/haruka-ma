@@ -17,12 +17,12 @@ database
 
 ### nvm (node version manager)
 - version manager for nodejs
-- `https://github.com/nvm-sh/nvm`
-- `https://www.youtube.com/watch?v=ohBFbA0O6hs`
+- [link to install packages](https://github.com/nvm-sh/nvm)
+- [tutorial on installation](https://www.youtube.com/watch?v=ohBFbA0O6hs)
 
 ### nodemon
 - tool that automatically restarts node applications when file changes in the directory are detected
-- `https://www.npmjs.com/package/nodemon`
+- [link to nodemon site](https://www.npmjs.com/package/nodemon`)
 - `npm install -g nodemon` to install
 - `nodemon {insert file name in current directory}` eg. `nodemon app` to use tool
 ______________________________________________________
@@ -30,7 +30,7 @@ ______________________________________________________
 # Introduction
 
 ## Helpful tutorials
-- `https://www.youtube.com/watch?v=EMwu8F0dCXE&t=1452s`
+- (https://www.youtube.com/watch?v=EMwu8F0dCXE&t=1452s)
 
 ## app.js
 - main application file
