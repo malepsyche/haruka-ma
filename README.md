@@ -17,6 +17,7 @@ database
 
 - nvm (node version manager)
 - `https://github.com/nvm-sh/nvm`
+- `https://www.youtube.com/watch?v=ohBFbA0O6hs`
 ______________________________________________________
 
 # Introduction
