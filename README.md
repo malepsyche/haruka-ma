@@ -16,12 +16,15 @@ database
 ## Packages installed
 
 ### nvm (node version manager)
+- version manager for nodejs
 - `https://github.com/nvm-sh/nvm`
 - `https://www.youtube.com/watch?v=ohBFbA0O6hs`
 
 ### nodemon
+- tool that automatically restarts node applications when file changes in the directory are detected
 - `https://www.npmjs.com/package/nodemon`
-- `npm install -g nodemon`
+- `npm install -g nodemon` to install
+- `nodemon {insert file name in current directory}` eg. `nodemon app` to use tool
 ______________________________________________________
 
 # Introduction
