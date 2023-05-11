@@ -42,12 +42,8 @@ ______________________________________________________
 - main application file
 - `./app.js`
 
-## route.js
-- main application routing
-- `./route.js`
-
 ## views dir
-- ejs files (html with embedded javascript)
+- directory that stores ejs files (html with embedded javascript)
 - `./views`
 
 ## css dir
@@ -55,7 +51,7 @@ ______________________________________________________
 - `./css`
 
 ## routes dir
-- javascript routing for each individual view page
+- directory that stores javascript files for each individual view page routing
 - `./routes`
 
 ## libraries installed
