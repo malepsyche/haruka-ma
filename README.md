@@ -8,6 +8,7 @@ frontend
 
 backend
 - nodejs
+- express
 
 database
 - postgreSQL
