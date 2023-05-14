@@ -3,12 +3,12 @@ const express = require("express");       // import express
 const path = require("path");          // import path
 const app = express();          // app = express application
 
-app.set("views", path.join(__dirname, "views"));  // set the built-in property "views" to the local path __dirname/views (__dirname is the current directory) -> This tells the application that all our ejs template (view) files are in the directory "__dirname/views" so that we won't have to specify the absolute path for every page that we render 
+app.set("views", path.join(__dirname, "views/pages"));  // set the built-in property "views" to the local path __dirname/views (__dirname is the current directory) -> This tells the application that all our ejs template (view) files are in the directory "__dirname/views" so that we won't have to specify the absolute path for every page that we render 
 app.set("view engine", "ejs");          // set our view engine to ejs (embedded javascript)
 
 
 // Import local files
-const homePage = require("./routes/home-page");
+const homePage = require("./routes/web/home-page");
 
 
 // Direct the URLs to the corresponding local files
