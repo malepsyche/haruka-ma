@@ -1,5 +1,3 @@
-# haruka-ma's Tech Stack
-
 ## Languages and frameworks
 
 frontend
